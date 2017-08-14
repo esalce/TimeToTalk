@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "jhopkins"
+AuthUserFile "/home/esalce/.htpasswds/public_html/jhopkins/passwd"
+require valid-user
